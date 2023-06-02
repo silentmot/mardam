@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65.877" height="58.51" viewBox="0 0 65.877 58.51">
+  <g id="Group_306" data-name="Group 306" transform="translate(-256.123 -25)">
+    <g id="weight" transform="translate(256.123 25.374)">
+      <path id="Path_49" data-name="Path 49" d="M56.618,51.2,51.543,20.882a5.927,5.927,0,0,0-5.851-4.948H38.066a10.65,10.65,0,1,0-18.49,0H11.952A5.929,5.929,0,0,0,6.1,20.885L1.027,51.207a5.95,5.95,0,0,0,5.852,6.929h43.89A5.946,5.946,0,0,0,56.618,51.2ZM28.823,6.2a4.446,4.446,0,1,1-4.447,4.445A4.451,4.451,0,0,1,28.823,6.2Z" transform="translate(-0.945)" fill="#959595"/>
+    </g>
+    <text id="طن" dir="ltr" transform="translate(295.914 65.71)" fill="#fff" font-size="17" font-family="Tajawal-ExtraBold, Tajawal" font-weight="800"><tspan x="-6.622" y="0">طن</tspan></text>
+    <g id="Group_305" data-name="Group 305" transform="translate(256.123 25.403)">
+      <circle id="Ellipse_17" data-name="Ellipse 17" cx="16.5" cy="16.5" r="16.5" transform="translate(32.877 -0.403)" fill="#fff"/>
+      <path id="Path_60" data-name="Path 60" d="M13.8,73.866a13.8,13.8,0,1,0,13.8,13.8A13.8,13.8,0,0,0,13.8,73.866Zm0,24.456A10.658,10.658,0,1,1,24.456,87.664,10.658,10.658,0,0,1,13.8,98.322Zm4.07-8.407a1.382,1.382,0,0,1-.357-.047l-4.447-1.2a1.37,1.37,0,0,1-1.012-1.322V80.5a1.369,1.369,0,1,1,2.738,0v5.8l3.435.926a1.369,1.369,0,0,1-.356,2.691Z" transform="translate(35.575 -71.488)" fill="#959595"/>
+    </g>
+  </g>
+</svg>

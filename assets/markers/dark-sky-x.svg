@@ -1,0 +1,25 @@
+<svg id="pin1" xmlns="http://www.w3.org/2000/svg" width="29.512" height="71.325" viewBox="0 0 29.512 71.325">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8b8992;
+      }
+
+      .cls-2 {
+        fill: #046e76;
+      }
+
+      .cls-3 {
+        fill: #78777f;
+      }
+
+      .cls-4 {
+        fill: #045c64;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_650" data-name="Rectangle 650" class="cls-1" width="4.179" height="42.674" transform="translate(12.666 28.651)"/>
+  <path id="Path_550" data-name="Path 550" class="cls-2" d="M179.587,14.757A14.756,14.756,0,1,1,164.832,0,14.772,14.772,0,0,1,179.587,14.757Z" transform="translate(-150.075)"/>
+  <rect id="Rectangle_651" data-name="Rectangle 651" class="cls-3" width="2.09" height="42.674" transform="translate(14.756 28.651)"/>
+  <path id="Path_551" data-name="Path 551" class="cls-4" d="M270.76,14.757a14.772,14.772,0,0,1-14.755,14.755V0A14.772,14.772,0,0,1,270.76,14.757Z" transform="translate(-241.248)"/>
+</svg>

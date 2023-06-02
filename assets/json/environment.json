@@ -1,0 +1,4 @@
+{
+  "serverUrl": "http://api.landfill.jeddah.gov.sa/api/v1/",
+  "tileServer": "http://localhost:3650/api/maps/basic/{z}/{x}/{y}.png"
+}
